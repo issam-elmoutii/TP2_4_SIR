@@ -5,7 +5,11 @@ import javax.persistence.EntityTransaction;
 import domain.*;
 import sun.tools.jconsole.Tab;
 
-
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
 public class JpaTest{
 
 	private EntityManager manager;

@@ -8,6 +8,13 @@ import java.util.List;
 import javax.persistence.GeneratedValue;
 import javax.persistence.EntityTransaction;
 import jpa.EntityManagerHelper;
+
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
+
 @Entity
 public class Section {
     private Long id;

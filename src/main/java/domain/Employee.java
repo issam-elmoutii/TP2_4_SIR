@@ -5,6 +5,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
+
 @Entity
 
 /*

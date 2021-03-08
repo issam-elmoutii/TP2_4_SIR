@@ -8,6 +8,11 @@ import java.util.ArrayList;
 import java.util.List;
 import jpa.EntityManagerHelper;
 import javax.persistence.EntityTransaction;
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
 @Entity
 public class Utilisateur {
     private String name;

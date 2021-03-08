@@ -10,6 +10,11 @@ import javax.persistence.EntityTransaction;
 
 import java.util.List;
 
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
 
 @Entity
 public class Tags {

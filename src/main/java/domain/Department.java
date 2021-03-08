@@ -1,4 +1,3 @@
-
 package domain;
 
 import java.util.ArrayList;
@@ -9,6 +8,12 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+
+/**
+ * Author: ELMOUTII Issam & GOURIRANE Yassine
+ * Date: 2020/2021
+ * Version 1.0
+ */
 
 
 /* ADD class Department*/
